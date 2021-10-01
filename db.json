@@ -1,0 +1,10 @@
+{
+    "preguntas":[
+        {"Id":1, "Pregunta": "Lugar de origen del tlacoyo", "Opciones":[
+            {"Correcta": "A", "A":"León", "B":"CDMX", "C":"Ciudad Juarez"}
+        ]}
+    ],
+    "lugares":[
+        {"codigo":"CDMX", "Descripcion":"Ciudad de México"}
+    ]
+}
