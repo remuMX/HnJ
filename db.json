@@ -1,10 +1,85 @@
 {
-    "preguntas":[
-        {"Id":1, "Pregunta": "Lugar de origen del tlacoyo", "Opciones":[
-            {"Correcta": "A", "A":"León", "B":"CDMX", "C":"Ciudad Juarez"}
-        ]}
-    ],
-    "lugares":[
-        {"codigo":"CDMX", "Descripcion":"Ciudad de México"}
+    "preguntas": [
+        [{
+                "Id": 1,
+                "Pregunta": "¿Desde cuándo se conoce existe la feria de las manzanas en Zacatlán?",
+                "Opciones": {
+                    "Correcta": "A",
+                    "A": "Desde 1834",
+                    "B": "Desde 1621",
+                    "C": "Desde 2000",
+                    "D": "Desde 1941"
+                }
+            },
+            {
+                "Id": 2,
+                "Pregunta": "¿De qué estado es originaria la feria de las manzanas?",
+                "Opciones": {
+                    "Correcta": "A",
+                    "A": "Puebla",
+                    "B": "Hidalgo",
+                    "C": "Oaxaca",
+                    "D": "CDMX"
+                }
+            },
+            {
+                "Id": 3,
+                "Pregunta": "¿En Zacatlán se producen un promedio de 800mil toneladas por año de manzanas?",
+                "Opciones": {
+                    "Correcta": "A",
+                    "A": "Verdadero",
+                    "B": "Falso"
+                }
+            },
+            {
+                "Id": 4,
+                "Pregunta": "¿Cuál es otro producto minero en Zacatlan a parte del Oro y la plata?",
+                "Opciones": {
+                    "Correcta": "D",
+                    "A": "Niquel",
+                    "B": "Calcio",
+                    "C": "Argón",
+                    "D": "Feldespato"
+                }
+            },
+            {
+                "Id": 5,
+                "Pregunta": "¿Cuántas bibliotecas hay en Zacatlan?",
+                "Opciones": {
+                    "Correcta": "C",
+                    "A": "40",
+                    "B": "5",
+                    "C": "27",
+                    "D": "Ninguna"
+                }
+            },
+            {
+                "Id": 6,
+                "Pregunta": "¿Aparte de manzanas que otra gastronomía hay en Zacatlán?",
+                "Opciones": {
+                    "Correcta": "A",
+                    "A": "Pan de queso y Tlacoyos",
+                    "B": "Guajolotas y Atole",
+                    "C": "Pambazos y pastel de chocolate",
+                    "D": "Ensalada de frutas y tonayan"
+                }
+            },
+            {
+                "Id": 7,
+                "Pregunta": "¿Cuando se celebra la feria de Zacatrlan de las manzanas?",
+                "Opciones": {
+                    "Correcta": "B",
+                    "A": "Mayo la primer semana del mes",
+                    "B": "Agosto la semana del dia 15",
+                    "C": "Diciembre la semana del dia 12",
+                    "D": "Febrero la ultima semana del mes"
+                }
+            }
+        
     ]
+],
+"lugares": [{
+    "id": 1,
+    "Descripcion": "Zacatlán de las Manzanas"
+}]
 }
